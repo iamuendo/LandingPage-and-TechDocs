@@ -14,5 +14,3 @@ function togglenav() {
 	sideMenu.classList.toggle("menu-show");
   CloseMenuBtn.classList.toggle("show");
 }
-
-
